@@ -17,7 +17,10 @@ Calculate by Adding, Subtracting, Dividing, and Multiplying.
 ![image](https://github.com/JonathanAmirSalinas/Calculator-Project/assets/126116839/3ed0b695-6e06-4136-8ddd-eddcdcdffd02)
 
 ## Multplying
-![image](https://github.com/JonathanAmirSalinas/Calculator-Project/assets/126116839/455ec0da-36e3-4827-a5f5-1287f22d7857)
-![image](https://github.com/JonathanAmirSalinas/Calculator-Project/assets/126116839/da70db83-1496-432f-8537-65c857555e39)
+![image](https://github.com/JonathanAmirSalinas/Calculator-Project/assets/126116839/db52b831-e5dc-4136-87db-668b903232fb)
+![image](https://github.com/JonathanAmirSalinas/Calculator-Project/assets/126116839/b8c5162a-351b-4f9a-8bf7-c418a5c40fe9)
+
+
+
 
 
